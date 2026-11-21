@@ -1,0 +1,8 @@
+{
+  "name": "api-key-safety-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Education-only, read-only MCP server about exchange API key safety for trading bots. Takes no keys.",
+  "license": "MIT",
+  "scripts": { "dev": "wrangler dev", "deploy": "wrangler deploy" }
+}
