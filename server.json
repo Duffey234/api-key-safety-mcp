@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Duffey234/api-key-safety-mcp",
+  "title": "API Key Safety (education only)",
+  "description": "Read-only exchange API key safety for trading bots: permissions, errors, red flags. Takes no keys.",
+  "version": "1.0.0",
+  "websiteUrl": "https://quantaira.app/api-key-safety-checker?utm_source=mcp-registry&utm_medium=referral&utm_campaign=mcp",
+  "repository": { "url": "https://github.com/Duffey234/api-key-safety-mcp", "source": "github" },
+  "remotes": [ { "type": "streamable-http", "url": "https://api-key-safety-mcp.agentgate.workers.dev/mcp" } ]
+}
