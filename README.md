@@ -1,5 +1,7 @@
 # api-key-safety-mcp
 
+[![API Key Safety MCP MCP connector](https://glama.ai/mcp/connectors/io.github.Duffey234/api-key-safety-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Duffey234/api-key-safety-mcp)
+
 An education-only, read-only [MCP](https://modelcontextprotocol.io) server for people who connect trading bots to crypto exchanges. It answers four kinds of question:
 
 - which API key permissions a bot needs, and which to leave off;
